@@ -1,0 +1,452 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "item/clock_00.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["0"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_01.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_02.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_03.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_04.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_05.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_06.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_07.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["7"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_08.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["8"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_09.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["9"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_10.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["０"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_11.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["１"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_12.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["２"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_13.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["３"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_14.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["４"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_15.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["５"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_16.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["６"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_17.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["７"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_18.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["８"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_19.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["９"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_20.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["a"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_21.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["b"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_22.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["c"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_23.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["d"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_24.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["e"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_25.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["f"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_26.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["g"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_27.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["h"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_28.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["i"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_29.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["j"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_30.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["k"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_31.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["l"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_32.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["m"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_33.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["n"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_34.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["o"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_35.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["p"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_36.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["q"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_37.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["r"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_38.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["s"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_39.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["t"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_40.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["u"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_41.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["v"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_42.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["w"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_43.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["x"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_44.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["y"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_45.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["z"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_46.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_47.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_48.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_49.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_50.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_51.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_52.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["G"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_53.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["H"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_54.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["I"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_55.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["J"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_56.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["K"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_57.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["L"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_58.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["M"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_59.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["N"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_60.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["O"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_61.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["P"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_62.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["Q"]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/clock_63.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["R"]
+        }
+    ]
+}
